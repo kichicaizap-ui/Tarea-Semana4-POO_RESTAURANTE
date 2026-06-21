@@ -2,7 +2,7 @@
 
 ## Nombre del estudiante
 
-Iveth Chicaiza
+Katrin Iveth Chicaiza Paucar 
 
 ## Descripción del proyecto
 
